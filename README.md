@@ -1,4 +1,5 @@
 # Vehicle-Trajectory-Management
+This project implements a vehicle trajectory prediction model based on attention mechanisms and inverse reinforcement learning (IRL). The aim is to accurately predict vehicle trajectories by learning from real-world driving data and focusing on key environmental factors using attention-based neural networks.
 
 
 ## Dataset
