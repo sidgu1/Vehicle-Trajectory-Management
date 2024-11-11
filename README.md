@@ -1,5 +1,8 @@
 # Vehicle-Trajectory-Management
 
 
+## Dataset
+The dataset required for this project is available [here](https://drive.google.com/drive/folders/1wlT7E1dJ4I-D-7t0fN5DhWLt5uLT9eUi) on Google Drive. It contains real-world vehicle trajectory data collected in various traffic conditions.
+
 ## Abstract
 Predicting the future trajectory of a vehicle in a dynamic scene is not a simple problem because the future trajectory of a vehicle is not only influenced by its historical trajectory but also by other vehicles. To solve this problem, we propose a vehicle trajectory prediction model based on attention mechanism and inverse reinforcement learning. The model uses the LSTM encoder-decoder framework as an infrastructure to efficiently extract the temporal features of vehicle trajectories. A social attention module is proposed to model the degree of inter-vehicle influence based on the distance between vehicles. The module generates feature vectors and serves as the weight values of the attention mechanism, enabling the prediction network to focus more on the surrounding vehicles with a greater degree of influence. An inverse reinforcement learning framework is introduced to regularize the encoder network using a reward function. The reward function effectively evaluates the gap between the predicted and true positions of the encoder output and enables the predicted positions to be closer to the true positions by training the network parameters. Based on the experimental results of public datasets SDD and NGSIM, our model can predict the future trajectory of vehicles more accurately than other models.
