@@ -83,11 +83,7 @@ Splitting data is essential for evaluating model performance effectively by ensu
 
 ## RSME per Batch on Test Dataset
 <p align="center">
-<<<<<<< HEAD
-  <img src="abc.png" width="300" height="300" />
-=======
   <img src="results/rmse_plot.png" width="600" height="300" />
->>>>>>> 032cb27 (changed readme and added plots)
 </p>
 
 ## Predicted vs. Ground Truth Trajectory
@@ -95,14 +91,8 @@ Splitting data is essential for evaluating model performance effectively by ensu
   <img src="results/pred_vs_ground_truth_plot.png" width="600" height="300" />
 </p>
 
-<<<<<<< HEAD
-## Average Displacement Error per Batch
-<p align="center">
-  <img src="ADE.png" width="300" height="300" />
-</p>
-=======
-## Average Displacement Error
+## Average Displacement Error per Batch on Test Dataset
 <p align="center">
   <img src="results/ade_plot.png" width="600" height="300" />
 </p>
->>>>>>> 032cb27 (changed readme and added plots)
+
