@@ -82,6 +82,11 @@ Splitting data is essential for evaluating model performance effectively by ensu
 
 
 ## RSME per Batch on Test Dataset
-
+<p align="center">
+  <img src="Screenshot from 2024-11-12 10-01-55[1].png" width="300" height="300" />
+</p>
 
 ## Ground V/S Predicted Trajectory
+<p align="center">
+  <img src="Screenshot from 2024-11-12 10-31-15.png" width="300" height="300" />
+</p>
