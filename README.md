@@ -93,5 +93,5 @@ Splitting data is essential for evaluating model performance effectively by ensu
 
 ## Average Displacement Error per Batch
 <p align="center">
-  <img src="Screenshot from 2024-11-12 10-31-15.png" width="300" height="300" />
+  <img src="ADE.png" width="300" height="300" />
 </p>
