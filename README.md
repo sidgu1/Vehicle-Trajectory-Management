@@ -79,3 +79,9 @@ Splitting data is essential for evaluating model performance effectively by ensu
 
     - **`X_train`, `X_test`**: Feature sets for training and testing.
     - **`y_train`, `y_test`**: Target labels (i.e., the vehicle’s future position or trajectory) for training and testing.
+
+
+## RSME per Batch on Test Dataset
+
+
+## Ground V/S Predicted Trajectory
