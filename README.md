@@ -12,7 +12,6 @@ This cell imports essential libraries required for data handling, visualization,
   - `pandas`, `numpy`: Used for data manipulation and numerical operations.
   - `matplotlib.pyplot`, `seaborn`: Utilized for data visualization.
   - `sklearn`: A popular machine learning library for model training and evaluation.
-  - `tensorflow` or `keras`: Likely used for building neural network models if trajectory prediction involves deep learning.
 
 ### Cell 2: Load Data
 This cell loads the dataset, `vehicle_data.csv`, which seems to contain information on vehicle trajectories.
