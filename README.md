@@ -9,6 +9,7 @@ The dataset required for this project is available [here](https://drive.google.c
 ## Cell-by-Cell Explanation
 ### Cell 1: Import Libraries
 This cell imports essential libraries required for data handling, visualization, and machine learning.
+  - `PyTorch`: PyTorch is a fully featured framework for building deep learning models, which is a type of machine learning that's commonly used in applications like image recognition and language processing
   - `pandas`, `numpy`: Used for data manipulation and numerical operations.
   - `matplotlib.pyplot`, `seaborn`: Utilized for data visualization.
   - `sklearn`: A popular machine learning library for model training and evaluation.
